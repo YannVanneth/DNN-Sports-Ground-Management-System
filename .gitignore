@@ -1,0 +1,21 @@
+# Executables and compiled objects
+*.exe
+*.o
+*.obj
+*.res
+*.out
+*.app
+gmon.out
+
+# Dev-C++ files
+*.layout
+*.depend
+Makefile.win.save
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
